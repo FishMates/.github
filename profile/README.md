@@ -18,9 +18,10 @@ FishMate is an advanced application designed to detect various fish diseases, in
 
 ## Architecture
 - Machine Learning
-  - Example
+  - TensorLite
 - Cloud Computing
-  - Example
+  - Cloud Run
+  - Etc
 - Mobile Development
   - Figma
   - Native Kotlin
@@ -35,3 +36,8 @@ FishMate is an advanced application designed to detect various fish diseases, in
 | Mobile Development | https://github.com/aldirahmanhh/FishMate/tree/md-branch |
 | Cloud Computing | https://github.com/aldirahmanhh/FishMate/tree/cc-branch |
 | Machine Learning | https://github.com/aldirahmanhh/FishMate/tree/ml-branch |
+
+## Original Github Link
+|Original Link GitHub|
+|------------------------------------------|
+| https://github.com/aldirahmanhh/FishMate |
